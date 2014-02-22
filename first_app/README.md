@@ -4,4 +4,4 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Timothy Hermida](www.supertimmeh.com)
+by [Timothy Hermida](http://www.supertimmeh.com)
